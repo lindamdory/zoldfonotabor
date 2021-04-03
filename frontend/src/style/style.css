@@ -28,6 +28,10 @@
   .logo2 {
     display: none;
   }
+  .subtitle,
+  .description {
+    margin: 0 30px;
+  }
 }
 
 @media only screen and (min-width: 601px) {
@@ -42,6 +46,9 @@
     width: 33vw;
     height: 50vw;
   }
+  .description {
+    margin: 0 90px;
+  }
 }
 
 a {
@@ -55,7 +62,6 @@ a {
 
 .description {
   text-align: justify;
-  margin: 0 90px;
 }
 
 .title-container,
