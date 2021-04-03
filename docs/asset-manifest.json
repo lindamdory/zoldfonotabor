@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/zoldfonotabor/static/css/main.dd83d46c.chunk.css",
+    "main.js": "/zoldfonotabor/static/js/main.d614e1f2.chunk.js",
+    "main.js.map": "/zoldfonotabor/static/js/main.d614e1f2.chunk.js.map",
+    "runtime-main.js": "/zoldfonotabor/static/js/runtime-main.6fcaed22.js",
+    "runtime-main.js.map": "/zoldfonotabor/static/js/runtime-main.6fcaed22.js.map",
+    "static/js/2.10698f43.chunk.js": "/zoldfonotabor/static/js/2.10698f43.chunk.js",
+    "static/js/2.10698f43.chunk.js.map": "/zoldfonotabor/static/js/2.10698f43.chunk.js.map",
+    "static/js/3.e87007bf.chunk.js": "/zoldfonotabor/static/js/3.e87007bf.chunk.js",
+    "static/js/3.e87007bf.chunk.js.map": "/zoldfonotabor/static/js/3.e87007bf.chunk.js.map",
+    "index.html": "/zoldfonotabor/index.html",
+    "static/css/main.dd83d46c.chunk.css.map": "/zoldfonotabor/static/css/main.dd83d46c.chunk.css.map",
+    "static/js/2.10698f43.chunk.js.LICENSE.txt": "/zoldfonotabor/static/js/2.10698f43.chunk.js.LICENSE.txt",
+    "static/media/ZFT2021.4468125a.pdf": "/zoldfonotabor/static/media/ZFT2021.4468125a.pdf",
+    "static/media/ZFT2021_jelentkezesi_lap.842b9d62.doc": "/zoldfonotabor/static/media/ZFT2021_jelentkezesi_lap.842b9d62.doc",
+    "static/media/children.e2e26556.jpg": "/zoldfonotabor/static/media/children.e2e26556.jpg",
+    "static/media/style.css": "/zoldfonotabor/static/media/gigi.fbae3bc6.ttf",
+    "static/media/logo-topleft.b477bd56.png": "/zoldfonotabor/static/media/logo-topleft.b477bd56.png",
+    "static/media/logo-topright.b53cb71e.png": "/zoldfonotabor/static/media/logo-topright.b53cb71e.png",
+    "static/media/program1.d683a70e.jpg": "/zoldfonotabor/static/media/program1.d683a70e.jpg",
+    "static/media/program2.3b142f39.jpg": "/zoldfonotabor/static/media/program2.3b142f39.jpg",
+    "static/media/program3.bafb2e43.jpg": "/zoldfonotabor/static/media/program3.bafb2e43.jpg",
+    "static/media/sunsnail.c4f5a346.jpg": "/zoldfonotabor/static/media/sunsnail.c4f5a346.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fcaed22.js",
+    "static/js/2.10698f43.chunk.js",
+    "static/css/main.dd83d46c.chunk.css",
+    "static/js/main.d614e1f2.chunk.js"
+  ]
+}
