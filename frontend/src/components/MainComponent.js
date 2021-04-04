@@ -18,8 +18,8 @@ const MainComponent = () => {
         <h1 className="title">Zöld Fonó Tábor</h1>
         <br></br>
         <h3 className="subtitle">
-          Gyere el júliusban Egyházasfaluba,<br></br> és próbáld ki a vidéki
-          fenntartható életmódot!
+          Gyere el júliusban a Sopron megyei Egyházasfaluba,<br></br> és próbáld
+          ki a vidéki fenntartható életmódot!
         </h3>
         <br></br>
         <p className="description">
@@ -84,23 +84,49 @@ const MainComponent = () => {
         <div className="box">
           <img className="img" src={children} alt="gyerekek" />
         </div>
-        <div className="box">
+        <div className="box references">
           <br></br>
-          <p>
+          <div>
             <em>"Ez a világ legjobb tábora! Én jövőre is akarok jönni!"</em> —
             Bogi, 8 éves
-          </p>
+          </div>
           <br></br>
-          <p>
+          <div>
             <em>
               "Ilyen táborra van szüksége a gyerekeknek. Nagyon köszönjük a
               szervezést!"
             </em>{" "}
             — Pálné Szilvia
-          </p>
+          </div>
         </div>
       </div>
-      <div className="footer">
+      <div className="map-container">
+        <div className="box">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2697.3536766518823!2d16.764416915625585!3d47.46353697917546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476ea7ea60efb269%3A0xcbfac04169fa7aba!2zU2ltb255aSBLw6Fyb2x5IMOBbHRhbMOhbm9zIElza29sYSDDqXMgw5N2b2Rh!5e0!3m2!1sen!2shu!4v1617527338565!5m2!1sen!2shu"
+            style={{ border: 0 }}
+            loading="lazy"
+            title="map"
+          />
+        </div>
+        <div className="box info">
+          <div>
+            <h4>
+              Jelentkezési határidő: <br></br>2021. május 24.
+            </h4>
+            <br></br>
+            <h4>Tábor időpontjai:</h4>
+            <p>2021. július 4. - július 9. (korosztály: 3-4. osztály)</p>
+            <p>2021. július 11. - július 16. (korosztály: 3-4. osztály)</p>
+            <p>2021. július 18. - július 23. (korosztály: 5-6. osztály)</p>
+            <br></br>
+            <h4>Helyszín:</h4>
+            <p>Egyházasfalu, Simonyi Károly Általános Iskola és környéke</p>
+          </div>
+        </div>
+      </div>
+      <br></br>
+      <div className="copyright">
         <p>© Zöld Fonó Tábor 2018–2021</p>
       </div>
       <br></br>
