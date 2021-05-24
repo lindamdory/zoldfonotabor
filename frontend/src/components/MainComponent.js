@@ -15,7 +15,7 @@ const MainComponent = () => {
       <img className="logo2" src={logo2} alt="logo" />
       <div className="title-container">
         <br></br>
-        <h1 className="title">Zöld Fonó Tábor</h1>
+        <h1 className="title">Zöld Fonó Tábor 2021</h1>
         <br></br>
         <h3 className="subtitle">
           Gyere el júliusban a Sopron megyei Egyházasfaluba,<br></br> és próbáld
@@ -88,7 +88,15 @@ const MainComponent = () => {
           <br></br>
           <div>
             <em>"Ez a világ legjobb tábora! Én jövőre is akarok jönni!"</em> —
-            Bogi, 8 éves
+            Luca, 10 éves
+          </div>
+          <br></br>
+          <div>
+            <em>
+              "Csatolom Sári jelentkezési papírját. Tavalyról sok-sok jó emléke
+              van, ragaszkodott hozzá az idén is."
+            </em>{" "}
+            — Folyi Andi
           </div>
           <br></br>
           <div>
@@ -96,7 +104,7 @@ const MainComponent = () => {
               "Ilyen táborra van szüksége a gyerekeknek. Nagyon köszönjük a
               szervezést!"
             </em>{" "}
-            — Pálné Szilvia
+            — több szülő beszélgetéséből
           </div>
         </div>
       </div>

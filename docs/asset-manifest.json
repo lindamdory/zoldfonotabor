@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zoldfonotabor/static/css/main.9ebd5cc3.chunk.css",
-    "main.js": "/zoldfonotabor/static/js/main.f1a4242d.chunk.js",
-    "main.js.map": "/zoldfonotabor/static/js/main.f1a4242d.chunk.js.map",
+    "main.js": "/zoldfonotabor/static/js/main.3ed0dfbd.chunk.js",
+    "main.js.map": "/zoldfonotabor/static/js/main.3ed0dfbd.chunk.js.map",
     "runtime-main.js": "/zoldfonotabor/static/js/runtime-main.6fcaed22.js",
     "runtime-main.js.map": "/zoldfonotabor/static/js/runtime-main.6fcaed22.js.map",
     "static/js/2.10698f43.chunk.js": "/zoldfonotabor/static/js/2.10698f43.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.6fcaed22.js",
     "static/js/2.10698f43.chunk.js",
     "static/css/main.9ebd5cc3.chunk.css",
-    "static/js/main.f1a4242d.chunk.js"
+    "static/js/main.3ed0dfbd.chunk.js"
   ]
 }
